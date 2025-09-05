@@ -1,12 +1,53 @@
-# React + Vite
+# 🏨 QuickStay
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QuickStay is a modern hotel booking web application built with **React.js**, **Vite**, and **TailwindCSS**.  
+It provides a seamless experience for travelers to explore, filter, and book rooms, while offering an **Admin Dashboard** for hotel management.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [QuickStay on Vercel](https://quick-stay-weld.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🚀 **Fast & Optimized** – Powered by Vite for blazing-fast development and build.  
+- 🎨 **Responsive UI** – Fully mobile-friendly design with TailwindCSS.  
+- 🔑 **Secure Authentication** – Clear and easy-to-use login/register system.  
+- 🛏 **Room Booking System** – Users can browse and book available rooms.  
+- 📑 **Landing Page** – Clean, modern, and interactive design.  
+- 📊 **Admin Dashboard** – Manage rooms, bookings, and users efficiently.  
+- ⚡ **Real-time Updates** – Smooth navigation and quick response.  
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js (with Vite)  
+- **Styling:** TailwindCSS  
+- **Authentication:** Clear authentication flow  
+- **Deployment:** Vercel  
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository and run locally:
+
+```bash
+# Clone the repo
+git clone https://github.com/Anmol-Sharma7011/QuickStay.git
+
+# Navigate to project
+cd QuickStay
+
+# Install dependencies
+npm install
+
+```
+👨‍💻 Author
+
+Anmol Sharma
+
+GitHub: Anmol-Sharma7011
+
+# Run the development server
+npm run dev
